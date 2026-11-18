@@ -1,0 +1,50 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "maple",
+  "name": "ON Roleplay",
+  "colors": {
+    "primary": "#C92C40",
+    "light": "#FF6575",
+    "dark": "#A61931"
+  },
+  "appearance": {
+    "default": "dark"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Comece aqui",
+        "pages": [
+          "index",
+          "convivencia-e-whitelist",
+          "regras-gerais"
+        ]
+      },
+      {
+        "group": "Regras da cidade",
+        "pages": [
+          "zonas-seguras",
+          "policia-e-hospital"
+        ]
+      },
+      {
+        "group": "Ilegal e facções",
+        "pages": [
+          "acoes-ilegais",
+          "roubos-e-refens",
+          "faccoes-e-organizacoes"
+        ]
+      },
+      {
+        "group": "Atendimento",
+        "pages": [
+          "denuncias-e-alinhamento",
+          "punicoes-e-recursos"
+        ]
+      }
+    ]
+  },
+  "icons": {
+    "library": "lucide"
+  }
+}
